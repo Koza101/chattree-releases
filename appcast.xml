@@ -4,6 +4,17 @@
     <title>ChatTree</title>
     <!-- new releases go here -->
     <item>
+      <title>ChatTree 0.1.1</title>
+      <pubDate>Thu, 22 Oct 2026 02:05:11 +0000</pubDate>
+      <sparkle:version>34</sparkle:version>
+      <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul>
+<li><strong>Updates no longer hide:</strong> the small &quot;Ready to Install&quot; window now comes to the front instead of opening behind ChatTree&#39;s main window. (This update itself still installs the old way, so if it seems stuck, look behind the main window one last time.)</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/Koza101/chattree-releases/releases/download/v0.1.1/ChatTree-0.1.1.dmg" type="application/octet-stream" sparkle:edSignature="hsDl7k1hfLAwC0NCqnKDsdqf7RJzg6Zrw9Vj5atXB0Cx4AOXNZEfEB41w7u3f4dBGbsbo1nj1eYPPy1O/PNuAQ==" length="47598512"/>
+    </item>
+    <item>
       <title>ChatTree 0.1.0</title>
       <pubDate>Thu, 22 Oct 2026 00:16:55 +0000</pubDate>
       <sparkle:version>30</sparkle:version>
