@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>ChatTree</title>
+    <!-- new releases go here -->
+    <item>
+      <title>ChatTree 0.1.0</title>
+      <pubDate>Thu, 22 Oct 2026 00:16:55 +0000</pubDate>
+      <sparkle:version>30</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>First build for early testers.</p>
+<ul>
+<li><strong>Map of each conversation:</strong> every prompt becomes a node attached to the idea it builds on, grouped into topics, as a thought map or a tree.</li>
+<li><strong>Claude Code built in:</strong> a terminal panel runs your own Claude Code (you sign in yourself). Sessions started from ChatTree are mapped as you go, and the map follows the terminal.</li>
+<li><strong>Continue from here:</strong> pick any node and ChatTree writes the message that takes Claude back there, ready in the terminal (never sent until you press Enter), or in a new branch session.</li>
+<li><strong>Maps for older sessions:</strong> &quot;Build a map on this Mac&quot; (private, using Apple&#39;s on-device model), and &quot;Organize with Claude&quot; with your own API key to sort a map into topics.</li>
+<li><strong>Regular Claude chats:</strong> shown view-only; import past chats from Claude&#39;s data export (File → Import Claude Chats…).</li>
+</ul>
+<p>Known limits: Apple silicon Macs only; this build isn&#39;t signed with an Apple Developer ID yet (see &quot;How to open ChatTree&quot;).</p>]]></description>
+      <enclosure url="https://github.com/Koza101/chattree-releases/releases/download/v0.1.0/ChatTree-0.1.0.dmg" type="application/octet-stream" sparkle:edSignature="dqcv9EQdTyFzMXCVe31GN8+N9XKkaLtSp8N4dlogacLELp9x9DTT9vQqccddaTSEI4kGTQIOL63/c/AIW+jtDA==" length="47548514"/>
+    </item>
+  </channel>
+</rss>
